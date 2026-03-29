@@ -1,0 +1,3 @@
+the dagor engine toolkit grp unpacker only unpacks to 1024 x 1024 for some reason,
+I will have to link against whatever is going in texPackMgr2.cpp, iirc that's what the game uses internally to manage textures
+that is for a later time though
